@@ -9,3 +9,5 @@ models/
 data/*.csv
 .venv/
 .vscode/
+.myenv
+
