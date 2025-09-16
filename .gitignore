@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+*.log
+.DS_Store
+.streamlit/local/
+models/
+data/*.csv
+.venv/
+.vscode/
